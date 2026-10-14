@@ -1,0 +1,11 @@
+{
+  "calva.replConnectSequences": [
+    {
+      "name": "justheard",
+      "projectType": "deps.edn",
+      "autoSelectForJackIn": true,
+      "projectRootPath": ["."],
+      "cljsType": "none"
+    }
+  ]
+}
